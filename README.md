@@ -1,2 +1,0 @@
-# domaciGIT
-Prvi domaći
